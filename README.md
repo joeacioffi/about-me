@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/joeacioffi" target="blank"><img src="https://img.shields.io/twitter/follow/joeacioffi?logo=twitter&style=for-the-badge" alt="joeacioffi" /></a> </p>
 
-- 🔭 I’m currently working on **personal website**
+- 🔭 I’m currently working on: **personal website**
 
-- 🌱 I’m currently learning **django, photoshop**
+- 🌱 I’m currently learning: **django, photoshop**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at: [coming soon](coming soon)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about: **react**
 
-- 📫 How to reach me **joeacioffi@gmail.com**
+- 📫 How to reach me: **joeacioffi@gmail.com**
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 Know about my experiences: [coming soon](coming soon)
 
-- ⚡ Fun fact **I am a classically trained musician**
+- ⚡ Fun fact: **I am a classically trained musician**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
