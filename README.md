@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **personal website**
 
-- 🌱 I’m currently learning: **django, photoshop**
+- 🌱 I’m currently learning: **unity, photoshop**
 
 - 👨‍💻 All of my projects are available at: [coming soon](coming soon)
 
