@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **unity, photoshop**
 
-- 👨‍💻 All of my projects are available at: [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at: [https://joecioffi.dev]
 
 - 💬 Ask me about: **react**
 
