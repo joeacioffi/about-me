@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning: **unity, photoshop**
 
-- 👨‍💻 All of my projects are available at: [https://joecioffi.dev]
+- 👨‍💻 All of my projects are available at: https://joecioffi.dev
 
 - 💬 Ask me about: **react**
 
 - 📫 How to reach me: **joeacioffi@gmail.com**
 
-- 📄 Know about my experiences: [coming soon](coming soon)
+- 📄 Know about my experiences: https://joecioffi.dev/#about
 
 - ⚡ Fun fact: **I am a classically trained musician**
 
