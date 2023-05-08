@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **personal website**
 
-- 🌱 I’m currently learning: **unity, photoshop**
+- 🌱 I’m currently learning: **unity, next.js, photoshop**
 
 - 👨‍💻 All of my projects are available at: https://joecioffi.dev
 
