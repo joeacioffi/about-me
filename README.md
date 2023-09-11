@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/joeacioffi" target="blank"><img src="https://img.shields.io/twitter/follow/joeacioffi?logo=twitter&style=for-the-badge" alt="joeacioffi" /></a> </p>
 
-- 🔭 I’m currently working on: **personal website**
+- 🔭 I’m currently working on: **Music Curriculum Management System**
 
 - 🌱 I’m currently learning: **unity, next.js, photoshop**
 
